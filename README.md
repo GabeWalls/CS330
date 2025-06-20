@@ -1,5 +1,5 @@
 # CS330
-Final 3D graphics project for CS-330, featuring OpenGL scene, lighting, textures, and camera controls.
+This repository contains my final project for CS-330: Computational Graphics and Visualization. It includes a completed 3D scene showcasing lighting, textures, camera controls, and object transformations, along with a Design Decisions document and reflection journal. This project demonstrates my skills in OpenGL, software design, and graphics programming.
 
 ## Reflection
 ### How do I approach designing software?
